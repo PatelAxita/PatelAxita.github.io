@@ -1,0 +1,53 @@
+[
+  {
+    "role": "Test Analyst",
+    "organisation": "Accenture",
+    "startDate": "Oct, 2022",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Created Dynamic single page application without full page reload",
+      "Application offered smooth, uninterrupted user experience",
+      "Developed React-based SPA to automate API testing, improving efficiency",
+      "Integrated RESTful APIs for seamless backend-frontend communication",
+      "Managed defect tracking & issue resolution using JIRA",
+      "Led performance testing for APIs using NeoLoad SaaS"
+    ],
+    "imageSrc": "/assets/history/accenture.png"
+  },
+  {
+    "role": "Jr Data Engineer",
+    "organisation": "Emphasis Tech",
+    "startDate": "April, 2022",
+    "endDate": "June, 2022",
+    "experiences": [
+      "Gathering requirements, filtering, created flowcharts in Agile",
+      "Developed responsive web pages using React & Bootstrap",
+      "Integrated frontend with backend services via REST APIs",
+      "Gathered requirements, documentation, designed ERDs and built Excel-based dbs to streamline data management & system design"
+    ],
+    "imageSrc": "/assets/history/emphasis.svg"
+  },
+  {
+    "role": "Business Intelligence Analyst",
+    "organisation": "DePaul University",
+    "startDate": "July, 2021",
+    "endDate": "March, 2022",
+    "experiences": [
+      "Led the Calories In and Calories Out project to create interactive Power BI dashboards, providing insights into fitness data"
+    ],
+    "imageSrc": "/assets/history/depaul-university-logo.png"
+  },
+  {
+    "role": "Business Analyst and Operations",
+    "organisation": "Global Impex USA",
+    "startDate": "March, 2021",
+    "endDate": "June, 2021",
+    "experiences": [
+      "Developed and managed a React-based web application for NFL merchandise sales forecasting",
+      "Assisted in optimizing the company’s CRM and eCommerce platform (WIX) for better user experience",
+      "Ensured the site was responsive, mobile-optimized, and aligned with SEO best practices",
+      "Created analytics to improve sales and website"
+    ],
+    "imageSrc": "/assets/history/global_imp.png"
+  }
+]

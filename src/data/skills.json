@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Web Design",
+    "description": "Using Angular",
+    "imageSrc": "/assets/skills/angular-icon.png",
+    "link": "https://angular.dev/"
+  },
+  {
+    "title": "Web Development",
+    "description": "Using React",
+    "imageSrc": "/assets/skills/react-icon.png",
+    "link": "https://react.dev/"
+  },
+  {
+    "title": "Web Development",
+    "description": "Using Solid js",
+    "imageSrc": "/assets/skills/solidjs-icon.png",
+    "link": "https://www.solidjs.com/"
+  },
+  {
+    "title": "Mobile Application Development",
+    "description": "Ionic",
+    "imageSrc": "/assets/skills/ionic-icon.png",
+    "link": "https://ionicframework.com/"
+  },
+  {
+    "title": "GitHub",
+    "description": "Github",
+    "imageSrc": "/assets/skills/github.png",
+    "link": "https://github.com/PatelAxita"
+  },
+  {
+    "title": "Mobile Application",
+    "description": "React Native",
+    "imageSrc": "/assets/skills/react-native-icon.png",
+    "link": "https://reactnative.dev/"
+  },
+  {
+    "title": "Team Collaboration & Documentation",
+    "description": "Altassian Confluence",
+    "imageSrc": "/assets/skills/confluence.png",
+    "link": "https://www.atlassian.com/software/confluence"
+  },
+  {
+    "title": "Continuous Integration & continuous Delivery",
+    "description": "Jenkins",
+    "imageSrc": "/assets/skills/jenkins.png",
+    "link": "https://www.jenkins.io/"
+  },
+  {
+    "title": "Project Management",
+    "description": "Altassian Jira",
+    "imageSrc": "/assets/skills/jira.png",
+    "link": "https://www.atlassian.com/software/jira"
+  },
+  {
+    "title": "API Development",
+    "description": "Postman",
+    "imageSrc": "/assets/skills/postman.png",
+    "link": "https://www.postman.com/"
+  },
+  {
+    "title": "Performance Testing",
+    "description": "Tricentis NeoLoad",
+    "imageSrc": "/assets/skills/neoload.png",
+    "link": "https://www.tricentis.com/products/performance-testing-neoload"
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Web Design",
+      "imageSrc": "/assets/services/web_design.png"
+    },
+    {
+      "title": "Server Interactions",
+      "imageSrc": "/assets/services/server_interactions.png"
+    },
+    {
+      "title": "UI/UX",
+      "imageSrc": "/assets/services/UI_UX.png"
+    },
+    {
+        "title": "App Development",
+        "imageSrc": "/assets/services/app_development.png"
+      }
+]

@@ -1,0 +1,112 @@
+@import "../../vars.css";
+
+.container {
+    position: relative;
+    color: #fff;
+    border-radius: 15px;
+    margin-top: 79px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.title {
+    color: #212529;
+    background-color: #f4f6f8;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto; 
+    background-color: #fff;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 11px;
+    width: calc(25% - 37px);
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+}
+
+.serviceImageContainer {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 96px;
+    height: 96px;
+}
+
+.serviceImageContainer img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.services {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 37px;
+    margin-top: 50px;
+}
+@media (max-width: 768px) {
+    .service {
+      width: calc(50% - 20px); 
+    }
+  
+    .serviceImageContainer {
+      width: 80px;
+      height: 80px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .service {
+      width: 100%; 
+    }
+  
+    .serviceImageContainer {
+      width: 60px; 
+      height: 60px;
+    }
+  }
+
+  .serviceTitle {
+    font-size: 1rem; 
+    font-weight: 600;
+    color: #212529; 
+    text-align: center; 
+    margin-top: 10px;
+  }
+
+  .servicesItemText {
+    text-align: center; 
+    color: #212529;
+    font-size: 0.7rem; 
+    font-family: var(--bs-font-sans-serif);
+    font-weight: 400; 
+    margin: 10px;
+    margin-bottom: 10px; 
+    margin-top: 20px;
+    line-height: 1.5;
+    position: relative;
+    z-index: 1;
+  }
+
